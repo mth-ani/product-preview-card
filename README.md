@@ -28,6 +28,11 @@ Users should be able to:
 - See hover and focus states for interactive elements.
 
 
+Links
+
+- Solution URL: "View my solution on Frontend Mentor" (https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+- Live Site URL: "View the live product preview card" (https://mth-ani.github.io/product-preview-card/)
+
 My Process
 
 Built With
